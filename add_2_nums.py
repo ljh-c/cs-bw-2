@@ -44,6 +44,4 @@ def add_two_numbers(l1: ListNode, l2: ListNode) -> ListNode:
     return l
 
 # TIME COMPLEXITY   O(n) #
-# SPACE COMPLEXITY  O(n) #
-
-# O(1) space complexity by modifying one of the linked lists in place
+# SPACE COMPLEXITY  O(1) #
