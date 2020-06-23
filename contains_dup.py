@@ -16,3 +16,6 @@ def contains_duplicate(nums) -> bool:
             seen.add(num)
 
     return False
+
+# TIME COMPLEXITY   O(n) #
+# SPACE COMPLEXITY  O(n) #
